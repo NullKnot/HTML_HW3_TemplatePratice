@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="219d4dcb-28ed-4e83-81a3-22da5da7c3f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/link_pic01.png" afterPath="$PROJECT_DIR$/images/link_pic01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/link_pic02.png" afterPath="$PROJECT_DIR$/images/link_pic02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/link_pic03.png" afterPath="$PROJECT_DIR$/images/link_pic03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/link_pic04.png" afterPath="$PROJECT_DIR$/images/link_pic04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twocolumn1-2.html" afterPath="$PROJECT_DIR$/twocolumn1-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twocolumn1-3.html" afterPath="$PROJECT_DIR$/twocolumn1-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twocolumn1.html" afterPath="$PROJECT_DIR$/twocolumn1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twocolumn2-2.html" afterPath="$PROJECT_DIR$/twocolumn2-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twocolumn2-3.html" afterPath="$PROJECT_DIR$/twocolumn2-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twocolumn2.html" afterPath="$PROJECT_DIR$/twocolumn2.html" />
-    </list>
+    <list default="true" id="219d4dcb-28ed-4e83-81a3-22da5da7c3f5" name="Default" comment="" />
     <ignored path="HTML_HW3_TemplatePratice.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89139634">
-              <caret line="219" column="53" selection-start-line="219" selection-start-column="53" selection-end-line="219" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.32016924">
+              <caret line="192" column="37" selection-start-line="192" selection-start-column="37" selection-end-line="192" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -328,7 +315,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24242425" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -501,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89139634">
-          <caret line="219" column="53" selection-start-line="219" selection-start-column="53" selection-end-line="219" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.32016924">
+          <caret line="192" column="37" selection-start-line="192" selection-start-column="37" selection-end-line="192" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />

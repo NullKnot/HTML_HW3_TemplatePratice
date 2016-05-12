@@ -157,6 +157,7 @@ function muteOrNotHandler(){
         player.unMute();
         muteButton.value="靜音";
         volumeSlider.value=100;
+        player.setVolume(volumeSlider.value);
     }
 }
 

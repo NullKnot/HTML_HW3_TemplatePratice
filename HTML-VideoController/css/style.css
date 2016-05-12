@@ -1,8 +1,8 @@
 *{margin:0;padding:0;}
 li{list-style:none outside none;}
-body{background:url(../images/rbg.jpg) repeat scroll 0 0 #aaa;font-family:"宋体";}
+body{font-family:"宋体";}
 
-.box{width:auto;margin:0 auto 20px;height:750px ;background:#3bb3e0;border:5px solid #2561b4;}
+.box{width:auto;margin:0 auto 20px;height:750px ;background: #121314;}
 p{font-size:20px;color:#333;text-align:center;margin:0 0 20px;}
 .box.box-1{height:200px}.box-1 dl{top:25px;}
 .box.box-2{height:500px}.box-2 dl{left:50%;margin-left:-75px;}

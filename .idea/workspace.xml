@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="219d4dcb-28ed-4e83-81a3-22da5da7c3f5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/images/rbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/img/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/video_production.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/黃令傑.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/css/style2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/direction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/js/drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML-VideoController/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firstHalfOfTerm1-1.html" afterPath="$PROJECT_DIR$/firstHalfOfTerm1-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firstHalfOfTerm1-2.html" afterPath="$PROJECT_DIR$/firstHalfOfTerm1-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firstHalfOfTerm1-3.html" afterPath="$PROJECT_DIR$/firstHalfOfTerm1-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nextHalfOfTerm2-1.html" afterPath="$PROJECT_DIR$/nextHalfOfTerm2-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nextHalfOfTerm2-2.html" afterPath="$PROJECT_DIR$/nextHalfOfTerm2-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nextHalfOfTerm2-3.html" afterPath="$PROJECT_DIR$/nextHalfOfTerm2-3.html" />
     </list>
     <ignored path="HTML_HW3_TemplatePratice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,10 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59688824">
+            <state vertical-scroll-proportion="-17.583334">
               <caret line="240" column="36" selection-start-line="240" selection-start-column="36" selection-end-line="240" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nextHalfOfTerm2-1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="drag.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML-VideoController/js/drag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nextHalfOfTerm2-1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nextHalfOfTerm2-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.803922">
-              <caret line="95" column="101" selection-start-line="95" selection-start-column="86" selection-end-line="95" selection-end-column="101" />
+            <state vertical-scroll-proportion="0.625">
+              <caret line="97" column="76" selection-start-line="97" selection-start-column="76" selection-end-line="97" selection-end-column="76" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -116,8 +137,8 @@
         <option value="$PROJECT_DIR$/firstHalfOfTerm1-2.html" />
         <option value="$PROJECT_DIR$/nextHalfOfTerm2-2.html" />
         <option value="$PROJECT_DIR$/nextHalfOfTerm2-3.html" />
-        <option value="$PROJECT_DIR$/nextHalfOfTerm2-1.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/nextHalfOfTerm2-1.html" />
       </list>
     </option>
   </component>
@@ -187,6 +208,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-VideoController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_HW3_TemplatePratice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_HW3_TemplatePratice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-VideoController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_HW3_TemplatePratice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_HW3_TemplatePratice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -201,6 +254,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jquery-drag-element" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -303,20 +361,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/firstHalfOfTerm1-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#3;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstHalfOfTerm1-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -797,19 +841,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nextHalfOfTerm2-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.803922">
-          <caret line="95" column="101" selection-start-line="95" selection-start-column="86" selection-end-line="95" selection-end-column="101" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59688824">
+        <state vertical-scroll-proportion="-17.583334">
           <caret line="240" column="36" selection-start-line="240" selection-start-column="36" selection-end-line="240" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -818,6 +852,24 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#li#3;n#ul#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-VideoController/js/drag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nextHalfOfTerm2-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625">
+          <caret line="97" column="76" selection-start-line="97" selection-start-column="76" selection-end-line="97" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

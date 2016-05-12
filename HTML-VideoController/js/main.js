@@ -40,10 +40,15 @@ window.onload = function(){
     );   //"change" 是改變才改 "input" 是隨時有輸入都在改
 
     volumeSlider.max = 100;
+    volumeSlider.min = 0;
     volumeSlider.addEventListener("input", function(){
         muteButton.value="靜音";
         player.unMute();
         player.setVolume(volumeSlider.value);
+        if(volumeSlider.value == volumeSlider.min){
+            muteButton.value="取消靜音"
+            player.mute();
+        }
     })
 
 //以上是youtube iframe控制相關
@@ -66,10 +71,14 @@ window.onload = function(){
     fullScreenButton.onclick=toFullScreen;
 
     volumeSlider2.max = 1;
+    volumeSlider2.min = 0;
     volumeSlider2.step = 0.002;
     volumeSlider2.addEventListener("input", function(){
         muteButton2.value="靜音";
         myVideo.volume = volumeSlider2.value;
+        if(volumeSlider2.value == volumeSlider2.min){
+            muteButton2.value="取消靜音";
+        }
     })
 }
 

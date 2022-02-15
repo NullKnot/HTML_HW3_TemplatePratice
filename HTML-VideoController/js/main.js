@@ -19,7 +19,6 @@ var progressSlider2, volumeSlider2;
 
 
 window.onload = function(){
-    window.alert("請使用遙控器控制~\n可以切換不同電視機！\n(小提醒：遙控器可以拖動喔)");
     timeLabel=document.getElementById("timeLabel");
     updateTimeLabel();
 
